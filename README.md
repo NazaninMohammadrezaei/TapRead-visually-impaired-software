@@ -1,5 +1,4 @@
-# SoftwareDesign_for_Visually_Impaired
-# TapRead
+# <img align="left" alt="TapRead" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/D%C3%A9ficience_visuelle.png" /> TapRead
 
 # Problem
 - It is a bit difficult for visually impaired people to access text information written on food products, home appliances, etc
